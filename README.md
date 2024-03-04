@@ -1,1 +1,1 @@
-Dummy template for unity projects.
+My Dummy template for unity projects.
