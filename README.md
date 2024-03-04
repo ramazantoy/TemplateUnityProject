@@ -1,1 +1,1 @@
-# TemplateUnityProject
+My Dummy template for unity projects.
